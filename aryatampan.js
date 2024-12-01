@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <span class="dropdown-text">${data.name}</span>
             </li>`;
       }).join("");
-      options.innerHTML = arr ? arr : `<p style="margin-top: 10px; font-size: 15px;">Mau Request Musik? Chat Mimin ya!</p>`;
+      options.innerHTML = arr ? arr : `<p style="margin-top: 10px; font-size: 15px;">Requests Musik? <a href="https://aryamods.rf.gd/requests/musik.html">Klik Disini</a></p>`;
     });
 
     selectBtn.addEventListener("click", () => wrapper.classList.toggle("active"));
@@ -190,9 +190,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     var typed = new Typed('.typed', {
-      strings: ["Daripada Baper Karena Perasaan 😢, Mending Baper Karena Camilan 🍟!",
-        "Lagi Baper? 😅 Tenang, Makan Baper Dulu 🍽️ Biar Mood Balik Lagi 😊!",
-        "Camilan Kami Yang Suka Bikin Baper 😍 Tapi Bukan Karena Perasaan, Melainkan Karena Kelezatan 😋!"],
+      strings: ["Daripada Baper Karena Perasaan ðŸ˜¢, Mending Baper Karena Camilan ðŸŸ!",
+        "Lagi Baper? ðŸ˜… Tenang, Makan Baper Dulu ðŸ½ï¸ Biar Mood Balik Lagi ðŸ˜Š!",
+        "Camilan Kami Yang Suka Bikin Baper ðŸ˜ Tapi Bukan Karena Perasaan, Melainkan Karena Kelezatan ðŸ˜‹!"],
       typeSpeed: 50,
       backSpeed: 25,
       backDelay: 3000,
