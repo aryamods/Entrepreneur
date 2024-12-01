@@ -190,9 +190,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     var typed = new Typed('.typed', {
-      strings: ["Daripada Baper Karena Perasaan ðŸ˜¢, Mending Baper Karena Camilan ðŸŸ!",
-        "Lagi Baper? ðŸ˜… Tenang, Makan Baper Dulu ðŸ½ï¸ Biar Mood Balik Lagi ðŸ˜Š!",
-        "Camilan Kami Yang Suka Bikin Baper ðŸ˜ Tapi Bukan Karena Perasaan, Melainkan Karena Kelezatan ðŸ˜‹!"],
+      strings: ["Daripada Baper Karena Perasaan 😢, Mending Baper Karena Camilan 🍟!",
+        "Lagi Baper? 😅 Tenang, Makan Baper Dulu 🍽️ Biar Mood Balik Lagi 😊!",
+        "Camilan Kami Yang Suka Bikin Baper 😍 Tapi Bukan Karena Perasaan, Melainkan Karena Kelezatan 😋!"],
       typeSpeed: 50,
       backSpeed: 25,
       backDelay: 3000,
